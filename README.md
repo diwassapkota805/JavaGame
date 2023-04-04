@@ -6,8 +6,8 @@
 
 ## Actions
 - Wepon Selection
-- Save Wepon (Locally saves your selected weapon as CSV file)
-- Load Weapon (Loads the weapon of your choice, if you have saved them previously)
+- Save Character (Locally saves your selected character as CSV file)
+- Load Character (Loads the character of your choice, if you have saved them previously)
 - Attack (Attacks the opponent)
 - Disarm (Disarms the opponent for the next two rounds)
 
